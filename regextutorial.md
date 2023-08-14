@@ -84,4 +84,5 @@ A regular expression, or Regex, is a sequence of characters that defines a patte
     Conclusion: Harnessing Regex Mastery
         A summary of the covered concepts and techniques.
 
-For more in-depth information and practical examples, consider visiting this link https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions . Regular expressions are a powerful tool for text manipulation and validation, widely used in programming and data processing tasks.
+
+A short section about the author with a link to the author's GitHub profile https://github.com/Ienxternal
